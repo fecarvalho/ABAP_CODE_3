@@ -12,7 +12,7 @@ O código abaixo irá gerar um arquivo de saída txt.
 INSTALLATION
 ------------
 
-You may copy and paste the code in your ABAP enviorement to test. 
+You may copy and paste the code in your ABAP environment to test. 
 
 <div class><pre>
 REPORT  zfii001_10.
