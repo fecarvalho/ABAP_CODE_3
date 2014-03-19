@@ -151,14 +151,3 @@ CASE sy-subrc.
   WHEN OTHERS.
     MESSAGE 'Try again!' TYPE 'I' DISPLAY LIKE 'E'.
 ENDCASE.
-
-
-
-
-
-
-
-
-
-
-
